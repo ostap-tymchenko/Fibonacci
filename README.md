@@ -1,4 +1,4 @@
-# Tic_Tac_Toe solver
+# Fibonacci solver
 
 ## overview:
 The Fibonacci sequence is a sequence in which each number is the sum of the two preceding ones. Numbers that are part of the Fibonacci sequence are known as Fibonacci numbers, commonly denoted Fn
@@ -11,3 +11,6 @@ The Fibonacci sequence is a sequence in which each number is the sum of the two 
 - starts as 0:0 1:2 2:3 3:5 and so on
 - writen in rust 🚀
 
+## Goals:
+- returning the index of an inputeted fib number
+- maybe more ??
